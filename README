@@ -4,3 +4,6 @@ system described here:
    http://research.microsoft.com/en-us/projects/trueskill/
 
 You'll need SciPy installed to use it.
+
+Having forked dougz's trueskill implementation, I have added code to
+calculate ranking based on race results.
